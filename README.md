@@ -8,4 +8,5 @@ vConTACT2 \
 new-upset.R: R scripts used to generate the upset plot in Fig. 1
 ### Figure 2
 Distance-decay analysis.R: R scripts used to generate distance-decay relationships (DDRs) based on Bray-Curtis similarity of viral community compositions \
-Multivariate regression tree.R: R scripts used to 
+Multivariate regression tree.R: R scripts used to generate multivariate regression tree analysis modeling viral community composition against physicochemical gradients with sum of squares partitioning
+
